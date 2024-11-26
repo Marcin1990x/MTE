@@ -1,10 +1,9 @@
-# Make Triathlon Easier Application
+# Make Triathlon Easier - Android Application
 
 Make Triathlon Easier, a commercial project I am currently working on.
 
 ## Screenshots
 Here are some screenshots of the app in action:
-
 
 ## Technologies Used
 This project is built using the following technologies:
