@@ -33,5 +33,4 @@ This project is built using the following technologies:
 - **Google Maps** – for map rendering. <img src="https://www.google.com/images/branding/product/2x/maps_96in128dp.png" alt="googleMaps" width="" height="50"/>
 
 ## Contact
-If you have any questions or feedback, feel free to reach out via [email].
-
+If you have any questions or feedback, feel free to reach out via email or LinkedIn, both of which you can find on my GitHub main page.
