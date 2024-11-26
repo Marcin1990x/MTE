@@ -5,6 +5,8 @@ Make Triathlon Easier, a commercial project I am currently working on.
 ## Screenshots
 Here are some screenshots of the app in action:
 
+![Screenshot 1](screenshots/Screenshot_20241126-131529.png)
+
 ## Technologies Used
 This project is built using the following technologies:
 - **React Native** – for building Android mobile application. <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="native" width="" height="50"/>
