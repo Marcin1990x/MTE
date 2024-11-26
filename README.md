@@ -5,7 +5,8 @@ Make Triathlon Easier, a commercial project I am currently working on.
 ## Screenshots
 Here are some screenshots of the app in action:
 
-![Screenshot 1](screenshots/Screenshot_20241126-131529.png)
+<img src="screenshots/Screenshot_20241126-131529.png" width="300" height="auto">
+
 
 ## Technologies Used
 This project is built using the following technologies:
