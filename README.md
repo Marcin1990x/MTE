@@ -5,7 +5,22 @@ Make Triathlon Easier, a commercial project I am currently working on.
 ## Screenshots
 Here are some screenshots of the app in action:
 
-<img src="screenshots/Screenshot_20241126-131529.png" width="300" height="auto">
+<div style="display: flex; justify-content: space-around;">
+  <img src="screenshots/Screenshot_20241126-131529.png" width="200" height="auto">
+  <img src="screenshots/Screenshot_20241126-131546.png" width="200" height="auto">
+  <img src="screenshots/Screenshot_20241126-131634.png" width="200" height="auto">
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="screenshots/Screenshot_20241126-132117.png" width="200" height="auto">
+  <img src="screenshots/Screenshot_20241126-131643.png" width="200" height="auto">
+  <img src="screenshots/Screenshot_20241126-134103.png" width="200" height="auto">
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="screenshots/Screenshot_20241126-131736.png" width="200" height="auto">
+  <img src="screenshots/Screenshot_20241126-131753.png" width="200" height="auto">
+  <img src="screenshots/Screenshot_20241126-134123.png" width="200" height="auto">
+</div>
+
 
 
 ## Technologies Used
